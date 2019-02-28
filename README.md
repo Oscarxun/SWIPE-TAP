@@ -1,6 +1,8 @@
 # SWIPE-TAP
 A single player, 2D casual puzzle game with simple theme.
 
+How To Play - Players can start game, open game setting to adjust bgm volume or quit game in the main menu. The gameplay is very simple, players have to follow the swipe text to do different actions. Ex: RIGHT: Players have to swipe right. TAP: Players have to tap. During the gameplay, players can see the stage level (current score) and the highest score. They also can pause the game during the gameplay. In the pause scene, players are able to restart the game, back to the menu or continue the game. If players do the wrong action, then they will lose the game. They can retry or back to the menu after losing the game. 
+
 Design Version
 
 v0.1
@@ -20,3 +22,4 @@ v1.2
 
 v1.3
 -Fix the tutorial (only occurs once), Can enable or disable tutorial in setting, Tutorial will follow the randomise swipe text, Add game icon
+
