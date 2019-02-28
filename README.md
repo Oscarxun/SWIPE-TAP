@@ -1,5 +1,5 @@
 # SWIPE-TAP
-A single player, 2D casual puzzle game with simple theme.
+A single player, 2D brain-busting puzzle game with simple theme.
 
 Design Version
 
